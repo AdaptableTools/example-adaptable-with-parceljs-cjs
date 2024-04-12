@@ -1,4 +1,4 @@
-# example-adaptable-with-parceljs
+# example-adaptable-with-parceljs-cjs
 
 Demo of AdapTable - using parceljs as build tool for quick setup together with CommonJS
 
