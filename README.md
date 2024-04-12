@@ -1,6 +1,6 @@
 # example-adaptable-with-parceljs
 
-Demo of AdapTable - using parceljs as build tool for quick setup
+Demo of AdapTable - using parceljs as build tool for quick setup together with CommonJS
 
 This demo is using TypeScript for convenience - but it could easily be just JavaScript.
 
